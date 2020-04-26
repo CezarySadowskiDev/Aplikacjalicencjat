@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#58AFFF</color>
+    <color name="colorPrimaryDark">#0069CC</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <!-- znaczniki -->
+    <color name="midMarker">#005cb3</color>
+</resources>

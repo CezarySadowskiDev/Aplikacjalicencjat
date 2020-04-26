@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aplikacja licencjat</string>
+    <string name="permission_req">Do ustalenia aktualnej pozycji, wymagana jest zgoda na dostęp do lokalizacji</string>
+</resources>
